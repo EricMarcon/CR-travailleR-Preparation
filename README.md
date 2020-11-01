@@ -14,7 +14,14 @@ Copiez et adaptez à vos besoins le fichier Packages.R
 Modifiez le fichier `README.md` :
 
 - Remplacez le titre principal par votre nom ;
-- 
+- Remplacez le logo d'EcoFoG par votre photo ;
+
+Mettez à jour le dépôt :
+
+- Créez le dossier `docs`, copiez-y `README.md` et `images/` ;
+- Activez les pages GitHub et vérifiez leur bon fonctionnement.
+
+Résultat attendu : le site https://cours-r.github.io/travailler-avec-r---preparation-GitHubID (où GitHubID est votre identifiant GitHub) doit afficher vos nom et photo.
 
 
 ## Support de cours
