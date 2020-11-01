@@ -44,9 +44,11 @@ InstallPackages("tidyverse")
 
 # Graphiques ####
 InstallPackages(c("gplots",    # Graphiques en 3D
-                  "devEMF"     # Figures au format EMF
+                  "devEMF",    # Figures au format EMF
+                  "ragg"       # Rendus graphiques
 ))
 
 
 # EcoFoG
 remotes::install_github("EcoFoG/EcoFoG", build_vignettes = TRUE)
+
