@@ -4,6 +4,9 @@ Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les
 
 -   Packages.R : script d'installation des packages
 
-# Cours-R
 
-Voir le [support de cours](https://ericmarcon.github.io/travailleR/) et les [présentations](https://ericmarcon.github.io/Cours-travailleR/).
+## Support de cours
+
+- [Programme de travail](https://1drv.ms/f/s!Amvhelr37CHjkOAgkKTimmgPL0YL8Q) ;
+- [Support de cours](https://ericmarcon.github.io/travailleR/) ;
+- [Présentations](https://ericmarcon.github.io/Cours-travailleR/).
