@@ -18,7 +18,7 @@ Modifiez le fichier `README.md` :
 
 Mettez à jour le dépôt :
 
-- Créez le dossier `docs`, copiez-y `README.md` et `images/` ;
+- Créez le dossier `docs`, déplacez-y `README.md` et `images/` ;
 - Activez les pages GitHub et vérifiez leur bon fonctionnement.
 
 Résultat attendu : le site https://cours-r.github.io/travailler-preparation-GitHubID (où GitHubID est votre identifiant GitHub) doit afficher vos nom et photo.
