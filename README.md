@@ -1,6 +1,6 @@
 # Introduction du cours Travailler avec R
 
-![Logo EcoFoG](images/EcoFoG2020.png)
+![Logo EcoFoG](images/EcoFoG2021.png)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
